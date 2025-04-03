@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Fast Shipping",
+      "subtext": "Get your items delivered within 24 hours with our express service.",
+      "image": "iconq-01.png"
+    },
+    {
+      "title": "Secure Packaging",
+      "subtext": "We ensure your items are safely packed to prevent any damage.",
+      "image": "iconq-02.png"
+    },
+    {
+      "title": "Real-time Tracking",
+      "subtext": "Track your order live and know exactly when it arrives.",
+      "image": "iconq-03.png"
+    },
+    {
+      "title": "Worldwide Delivery",
+      "subtext": "We deliver across the globe with trusted shipping partners.",
+      "image": "iconq-04.png"
+    }
+  ]
+  

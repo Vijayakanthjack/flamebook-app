@@ -9,7 +9,7 @@
   --color-purple-200: oklch(0.880 0.060 315.5);
   --color-purple-300: oklch(0.800 0.080 315.5);
   --color-purple-400: oklch(0.700 0.100 315.5);
-  --color-purple-500: oklch(0.580 0.120 315.5); /* #8D28AD */
+  --color-purple-500: rgb(140, 40, 173); /* #8D28AD */
   --color-purple-600: oklch(0.480 0.110 315.5);
   --color-purple-700: oklch(0.380 0.100 315.5);
   --color-purple-800: oklch(0.290 0.090 315.5);

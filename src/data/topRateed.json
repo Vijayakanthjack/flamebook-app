@@ -1,0 +1,45 @@
+[
+    {
+      "maintitle": "Book One",
+      "subtitle": "Best-selling book",
+      "price": "400",
+      "image": "top-rated-01.png",
+      "rating": "4.5"
+    },
+    {
+      "maintitle": "Book Two",
+      "subtitle": "A thrilling story",
+      "price": "350",
+      "image": "top-rated-02.png",
+      "rating": "4.2"
+    },
+    {
+      "maintitle": "Book Three",
+      "subtitle": "Future adventure",
+      "price": "500",
+      "image": "top-rated-03.png",
+      "rating": "4.8"
+    },
+    {
+      "maintitle": "Book Four",
+      "subtitle": "Another future story",
+      "price": "500",
+      "image": "top-rated-04.png",
+      "rating": "4.8"
+    },
+    {
+      "maintitle": "Book Five",
+      "subtitle": "Final book in the series",
+      "price": "500",
+      "image": "top-rated-05.png",
+      "rating": "4.8"
+    },
+    {
+        "maintitle": "Book Five",
+        "subtitle": "Final book in the series",
+        "price": "500",
+        "image": "top-rated-06.png",
+        "rating": "4.8"
+      }
+  ]
+  

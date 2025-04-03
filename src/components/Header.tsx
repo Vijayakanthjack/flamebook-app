@@ -1,18 +1,22 @@
+
+import Logo from "../assets/images/clevr-logo.png";
+
 function Header (){
 return(
-    <>
-    <div className="bg-white dark:bg-gray-800 rounded-lg px-6 py-8 ring shadow-xl ring-gray-900/5">
-  <div>
-    <span className="inline-flex items-center justify-center rounded-md bg-indigo-500 p-2 shadow-lg">
-      
-    </span>
+  
+<nav className="bg-white dark:bg-gray-900 w-full py-4 z-20 top-0 start-0">
+  <div className="max-w-screen-xl 2xl:max-w-screen-2xl flex flex-wrap items-center justify-between mx-auto p-4">
+  <a href="#" className="flex items-center space-x-3 rtl:space-x-reverse">
+      <img src={Logo} className="w-[140px]" alt="Flowbite Logo" />
+  </a>
+  <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
+      <button type="button" className="text-white bg-purple-500 hover:bg-purple-600 focus:ring-4 focus:outline-none focus:ring-purple-300 font-medium rounded-lg text-sm px-4 py-2 text-center ">Login with Google</button>
   </div>
-  <h3 className="text-gray-900 dark:text-white mt-5 text-base font-medium tracking-tight ">Writes upside-down</h3>
-  <p className="text-gray-500 dark:text-gray-400 mt-2 text-sm ">
-    The Zero Gravity Pen can be used to write in any orientation, including upside-down. It even works in outer space.
-  </p>
-</div>
-    </>
+  
+  </div>
+</nav>
+
+
 )
 }
 export default Header;
